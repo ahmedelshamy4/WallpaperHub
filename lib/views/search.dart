@@ -4,7 +4,6 @@ import 'package:wallpaper_hup/model/wallpaper_model.dart';
 import 'package:wallpaper_hup/widgets/widget.dart';
 import 'package:http/http.dart' as https;
 import 'dart:convert';
-import 'package:wallpaper_hup/widgets/widget.dart';
 
 class Search extends StatefulWidget {
   final searchQury;
