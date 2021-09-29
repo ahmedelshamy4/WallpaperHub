@@ -16,8 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 �"# WallpaperHub" 
+
 In Flutter WallpaperHub we will load top headlines on the home page and we have categories option to see top headlines based on categories and search page option to see top headlines based on searching
 
 �"# screenShot" 
+
+
 https://user-images.githubusercontent.com/26741217/135334202-511ae914-a35c-44ae-8f1c-8f8cb78dec56.mp4
 
